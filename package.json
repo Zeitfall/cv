@@ -1,0 +1,14 @@
+{
+  "name": "cv",
+  "version": "1.0.0",
+  "description": "cv",
+  "main": "index.js",
+  "scripts": {
+    "sass": "node-sass src/scss/style.scss dist/css/style.css -w"
+  },
+  "author": "Vlad Matsko (Zeitfall)",
+  "license": "ISC",
+  "dependencies": {
+    "node-sass": "^7.0.1"
+  }
+}
